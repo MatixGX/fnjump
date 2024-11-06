@@ -4,7 +4,7 @@ import time
 
 pag.PAUSE = 0.00
 
-count = 100
+count = 2
 
 while True:
     if keyboard.is_pressed(";"):
